@@ -7,6 +7,7 @@ namespace Calculateur_Masque_Sous_Reseau
 {
     public partial class MainWindow : Window
     {
+        // Mon premier test avec Git pour la SAE
         private bool _cidrManuel = false;
 
         public MainWindow()
